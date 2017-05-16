@@ -1,3 +1,4 @@
+# Jar as a service
 
 This is a simple wrapper to run a Java program as service. You need to be a root user.
 
